@@ -1,2 +1,2 @@
 # Pymaceuticals_Jupyter-Notebook
-Repo created for the Matplotlib Pymaceuticals Homework
+Repo created for the Matplotlib Pymaceuticals analysis
